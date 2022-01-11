@@ -1,0 +1,11 @@
+h1
+{
+	color: rgb(166, 255, 0); 
+	font-size: 40px;
+}
+
+#myCanvas{
+border-width: 10px;
+background-color: rgb(243, 247, 2, 0.899);
+border-style: ridge;
+}
